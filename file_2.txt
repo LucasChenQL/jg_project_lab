@@ -1,2 +1,3 @@
 The fastest Ferrari is red
 The fastest Mercedes is silver
+The fastest Williams is blue
